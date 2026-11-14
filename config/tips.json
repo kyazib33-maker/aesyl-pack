@@ -1,17 +1,13 @@
 {
-    "defaultCycleTime":  5000,
-    "ignoredNamespaces":  [
-                              "tipsmod"
-                          ],
-    "ignoredTips":  [
-
-                    ],
-    "hideUnlocalizedTips":  true,
-    "tipRenderWidthPercent":  0.35,
-    "defaultTitle":  {
-                         "bold":  true,
-                         "underlined":  true,
-                         "color":  "yellow",
-                         "text":  "Dica Aesyl"
-                     }
+  "defaultCycleTime": 5000,
+  "ignoredNamespaces": ["tipsmod", "epicfight", "minecraft"],
+  "ignoredTips": [],
+  "hideUnlocalizedTips": true,
+  "tipRenderWidthPercent": 0.35,
+  "defaultTitle": {
+    "bold": true,
+    "underlined": true,
+    "color": "yellow",
+    "text": "Dicas"
+  }
 }
