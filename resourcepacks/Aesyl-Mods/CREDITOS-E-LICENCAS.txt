@@ -1,0 +1,21 @@
+Aesyl - Temas de Mods (resource pack; E6A, 2026-11-17)
+
+Este pack NAO contem codigo nem jars de terceiros; so texturas e textos que sobrescrevem arquivos por nome.
+
+Arte propria do Aesyl (desenhada do zero, sem pixels dos originais):
+- assets/iris/iris-logo.png (rosa dos ventos dourada)
+- assets/embeddium/textures/embeddium/gui/logo_transparent.png (gema dourada)
+- assets/distanthorizons/textures/gui/button.png e changelog.png (so layout/tamanho seguem os originais)
+- assets/embeddium/lang/pt_br.json e assets/sodium/lang/pt_br.json (traducao propria das chaves do en_us do Embeddium 0.3.31)
+
+Obras derivadas por RECOLORACAO (mesma silhueta/alpha do original, paleta do Aesyl); permanecem sob a licenca do mod de origem:
+- assets/iris/textures/gui/widgets.png          <- Oculus 1.8.0 (LGPL-3.0-only)
+- assets/sodium/textures/gui/arrows.png         <- Embeddium 0.3.31 (LGPL-3.0-only)
+- assets/configured/textures/gui/icons.png      <- Configured 2.2.3 (LGPL-3.0)
+- assets/configured/textures/gui/logo.png       <- Configured 2.2.3 (LGPL-3.0)
+- assets/cloth-config2/textures/gui/cloth_config.png <- Cloth Config 11.1.136 (LGPL-3.0)
+Codigo-fonte dos mods: ver as paginas oficiais de cada projeto (CurseForge/Modrinth/GitHub).
+
+NAO tocados por decisao de licenca:
+- Fzzy Config 0.7.7 (TDL-M 1.3): nenhuma textura dele e sobrescrita (ver nota do vault).
+- Logos do Distant Horizons (CC BY-SA 4.0, (c) 2024 Pankakes): nao usados como base; nao sobrescritos.
