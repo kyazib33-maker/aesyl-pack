@@ -1,6 +1,11 @@
 {
   "defaultCycleTime": 5000,
-  "ignoredNamespaces": ["tipsmod", "epicfight", "minecraft"],
+  "ignoredNamespaces": [
+    "tipsmod",
+    "epicfight",
+    "minecraft",
+    "aesyl"
+  ],
   "ignoredTips": [],
   "hideUnlocalizedTips": true,
   "tipRenderWidthPercent": 0.35,
